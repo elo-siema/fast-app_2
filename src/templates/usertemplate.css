@@ -1,0 +1,5 @@
+.user-template {
+    min-height: 100vh;
+    padding: 2rem;
+    background: var(--background-color);
+}
